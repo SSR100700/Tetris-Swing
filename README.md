@@ -12,8 +12,8 @@ Our Tetris game is a single player game where the computer randomly generates te
 <br></br>
 >*V4 version*
 
-![img]("Users/asus/Downloads/Tetris-Swing/Tetris-Swing/src/v4.png")
+![v4](https://user-images.githubusercontent.com/72198465/235859308-cd7829c1-90d5-477f-a46f-9faa3baa5536.png)
 
 >*V6 version*
 
-![img]("Users/asus/Downloads/Tetris-Swing/Tetris-Swing/src/v6.png")
+![v6](https://user-images.githubusercontent.com/72198465/235859407-13ef3b90-882e-4629-8685-b2de47536e2b.png)
